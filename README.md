@@ -1,12 +1,12 @@
 
-# Suggested installation instructions
+# Suggested setup instructions
 
 1. Use conda
 2. Start a new conda environment, python 3.6 or 3.7:
 
 `conda create -n causalnex python=3.6`
 
-(replace 'causalnex' with your preferred name). Do NOT try and do the install in the 'base' environment.
+(replace 'causalnex' with your preferred name). Do NOT try and do the install in the `base` environment, or use python 3.8.
 
 3. Activate environment:
 
