@@ -27,6 +27,6 @@ If you get an error that the package can't be found, try with conda-forge:
 
 6. The remainder of the packages should install smoothly using pip:
 
-`pip install causalnex`
+`pip install -r requirements.txt`
 
 7. Start Jupyter using `jupyter notebook` and navigate to the Workbook.
